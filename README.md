@@ -5,7 +5,7 @@ Release note: [March, 2017]
 
 Project overview:
 -----------------
-A Cache-Conscious Ensemble Ranking as described in [1][2].  The package takes popular learning-to-rank datasets like Yahoo! dataset, MSLR-30K dataset and MQ2007 as the dataset input. Tree model input can be obtained from these datasets by using jforests[3] package with LambdaMART algorithm. The package can be used to evaluate and compare the efficiency of different cache blocking methods and some well known ensemble ranking methods like VPred[4].
+A Cache-Conscious Ensemble Ranking as described in [1][2].  The package takes popular learning-to-rank datasets like Yahoo! dataset, MSLR-30K dataset and MQ2007 as the dataset input. Tree model input can be obtained from these datasets by using jforests[3] package with LambdaMART algorithm. The package can be used to evaluate and compare the efficiency of different cache blocking methods and some well known ensemble ranking methods like VPred[4]. The package also includes self-implemented QuickScorer[5][6][7].
 
 Package overview:
 -----------------
@@ -32,6 +32,7 @@ all the executables will be written to target/ directory.
 4) To run:
 <pre><code>cd scripts/; ./run.sh</code></pre>
 the execution results will be written to results/ directory.
+You can try other scripts and experiments on different cache blocking methods.
 
 Dataset Format:
 ------------
@@ -72,3 +73,9 @@ References:
 [3] "Bagging Gradient-Boosted Trees for High Precision". Y. Ganjisaffar, R. Caruana, C. Lopes. SIGIR'11.
 
 [4] "Runtime Optimizations for Tree-Based Machine Learning Models". N. Asadi, J. Lin, and A. P. D. Vries. IEEE TKDE'13.
+
+[5] "Quickscorer: a fast algorithm to rank documents with additive ensembles of regression trees". C. Lucchese, F. M. Nardini, S. Orlando,  R. Perego, N. Tonellotto, and R. Venturini. SIGIR ’15.
+
+[6] "Fast ranking with additive ensembles of oblivious and non-oblivious regression trees". D. Dato, C. Lucchese, F. M. Nardini, S. Orlando, R. Perego, N. Tonellotto, and R. Venturini. ACM Transactions on Information Systems (2016)
+
+[7] "Exploiting cpu simd extensions to speed-up document scoring with tree ensembles".  C. Lucchese, F. M. Nardini, S. Orlando, R. Perego, N. Tonellotto, and R. Venturini. SIGIR ’16.
