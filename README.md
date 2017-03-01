@@ -27,11 +27,11 @@ Quick start:
 
 3) To compile
 <pre><code>make</code></pre>
-all the executables will be written to target/ directory
+all the executables will be written to target/ directory.
 
 4) To run:
 <pre><code>cd scripts/; ./run.sh</code></pre>
-the execution results will be written to results/ directory
+the execution results will be written to results/ directory.
 
 Dataset Format:
 ------------
