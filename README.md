@@ -21,6 +21,17 @@ data/: a short version of the document dataset and tree model
 
 Quick start:
 -----------------
+1) Clone the repository as: git clone https://github.com/LinChai/CCER.git
+
+2) Make sure GCC and G++(C++11) compilers are installed in the system.
+
+3) To compile
+<pre><code>make</code></pre>
+all the executables will be written to target/ directory
+
+4) To run:
+<pre><code>cd scripts/; ./run.sh</code></pre>
+the execution results will be written to results/ directory
 
 Dataset Format:
 ------------
@@ -49,7 +60,7 @@ node 13 12 18 1 -1.1315252228116115
 node 14 12 18 0 -0.5125199927634682
 end
 </code></pre>
-The first line denotes total number of the trees(20000 in this example). The second line is the height of the tree(5 in this example); Then each following line is of format \<node, #nodeid, #parentid, #featureid, #isleft, #threshold>
+The first line denotes total number of the trees(20000 in this example). The second line is the height of the tree(5 in this example); Then each following line is of format \<node, #nodeid, #parentid, #featureid, #isleft, #threshold>. "end" denotes the end of current tree.
 
 References:
 -----------
