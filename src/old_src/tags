@@ -1,0 +1,612 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+BusyWork	ThreadDSDS_StructPlus1.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadDSDS_StructPlus2.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadDSDS_StructPlus3.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadDSDS_StructPlus4.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadDSDS_StructPlus5.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadDSDS_StructPlus6.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadDSDS_StructPlus7.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadDSD_StructPlus1.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadDSD_StructPlus2.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadDSD_StructPlus3.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadDSD_StructPlus4.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadSDSD_StructPlus.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadSDSD_StructPlus1.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadSDSD_StructPlus2.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadSDSD_StructPlus3.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadSDSD_StructPlus4.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadSDSD_StructPlus5.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadSDSD_StructPlus6.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadSDSD_StructPlus7.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadSDS_StructPlus1.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadSDS_StructPlus2.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadSDS_StructPlus3.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	ThreadSDS_StructPlus4.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	misc/DOT_StructPlus_Thread.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	misc/FTFT_StructPlus_Thread.c	/^void *BusyWork(void *t)$/;"	f
+BusyWork	misc/TFTF_StructPlus_Thread.c	/^void *BusyWork(void *t)$/;"	f
+D	misc/GenerateHeadFile.cpp	10;"	d	file:
+F	8_VPred_Block.c	10;"	d	file:
+F	DOT_StructPlus.c	10;"	d	file:
+F	DSDS_StructPlus.c	10;"	d	file:
+F	DSDS_StructPlus1.c	10;"	d	file:
+F	DSDS_StructPlus2.c	10;"	d	file:
+F	DSDS_StructPlus3.c	10;"	d	file:
+F	DSDS_StructPlus4.c	10;"	d	file:
+F	DSDS_StructPlus5.c	10;"	d	file:
+F	DSDS_StructPlus6.c	10;"	d	file:
+F	DSDS_StructPlus7.c	10;"	d	file:
+F	DSD_StructPlus.c	10;"	d	file:
+F	DSD_StructPlus1.c	10;"	d	file:
+F	DSD_StructPlus2.c	10;"	d	file:
+F	DSD_StructPlus3.c	10;"	d	file:
+F	DSD_StructPlus4.c	10;"	d	file:
+F	QS.c	10;"	d	file:
+F	SDSD_StructPlus.c	10;"	d	file:
+F	SDSD_StructPlus1.c	10;"	d	file:
+F	SDSD_StructPlus2.c	10;"	d	file:
+F	SDSD_StructPlus3.c	10;"	d	file:
+F	SDSD_StructPlus4.c	10;"	d	file:
+F	SDSD_StructPlus5.c	10;"	d	file:
+F	SDSD_StructPlus6.c	10;"	d	file:
+F	SDSD_StructPlus7.c	10;"	d	file:
+F	SDS_StructPlus.c	10;"	d	file:
+F	SDS_StructPlus1.c	10;"	d	file:
+F	SDS_StructPlus2.c	10;"	d	file:
+F	SDS_StructPlus3.c	10;"	d	file:
+F	SDS_StructPlus4.c	10;"	d	file:
+F	SOT_StructPlus.c	10;"	d	file:
+F	ThreadDSDS_StructPlus1.c	10;"	d	file:
+F	ThreadDSDS_StructPlus2.c	10;"	d	file:
+F	ThreadDSDS_StructPlus3.c	10;"	d	file:
+F	ThreadDSDS_StructPlus4.c	10;"	d	file:
+F	ThreadDSDS_StructPlus5.c	10;"	d	file:
+F	ThreadDSDS_StructPlus6.c	10;"	d	file:
+F	ThreadDSDS_StructPlus7.c	10;"	d	file:
+F	ThreadDSD_StructPlus1.c	10;"	d	file:
+F	ThreadDSD_StructPlus2.c	10;"	d	file:
+F	ThreadDSD_StructPlus3.c	10;"	d	file:
+F	ThreadDSD_StructPlus4.c	10;"	d	file:
+F	ThreadSDSD_StructPlus.c	10;"	d	file:
+F	ThreadSDSD_StructPlus1.c	10;"	d	file:
+F	ThreadSDSD_StructPlus2.c	10;"	d	file:
+F	ThreadSDSD_StructPlus3.c	10;"	d	file:
+F	ThreadSDSD_StructPlus4.c	10;"	d	file:
+F	ThreadSDSD_StructPlus5.c	10;"	d	file:
+F	ThreadSDSD_StructPlus6.c	10;"	d	file:
+F	ThreadSDSD_StructPlus7.c	10;"	d	file:
+F	ThreadSDS_StructPlus1.c	10;"	d	file:
+F	ThreadSDS_StructPlus2.c	10;"	d	file:
+F	ThreadSDS_StructPlus3.c	10;"	d	file:
+F	ThreadSDS_StructPlus4.c	10;"	d	file:
+F	misc/DOT_StructPlus_Thread.c	18;"	d	file:
+F	vpred_orig_code/StructPlus.c	18;"	d	file:
+NUM_THREADS	8_VPred_Block.c	12;"	d	file:
+NUM_THREADS	DOT_StructPlus.c	12;"	d	file:
+NUM_THREADS	DSDS_StructPlus.c	12;"	d	file:
+NUM_THREADS	DSDS_StructPlus1.c	12;"	d	file:
+NUM_THREADS	DSDS_StructPlus2.c	12;"	d	file:
+NUM_THREADS	DSDS_StructPlus3.c	12;"	d	file:
+NUM_THREADS	DSDS_StructPlus4.c	12;"	d	file:
+NUM_THREADS	DSDS_StructPlus5.c	12;"	d	file:
+NUM_THREADS	DSDS_StructPlus6.c	12;"	d	file:
+NUM_THREADS	DSDS_StructPlus7.c	12;"	d	file:
+NUM_THREADS	DSD_StructPlus.c	12;"	d	file:
+NUM_THREADS	DSD_StructPlus1.c	12;"	d	file:
+NUM_THREADS	DSD_StructPlus2.c	12;"	d	file:
+NUM_THREADS	DSD_StructPlus3.c	12;"	d	file:
+NUM_THREADS	DSD_StructPlus4.c	12;"	d	file:
+NUM_THREADS	QS.c	12;"	d	file:
+NUM_THREADS	SDSD_StructPlus.c	12;"	d	file:
+NUM_THREADS	SDSD_StructPlus1.c	12;"	d	file:
+NUM_THREADS	SDSD_StructPlus2.c	12;"	d	file:
+NUM_THREADS	SDSD_StructPlus3.c	12;"	d	file:
+NUM_THREADS	SDSD_StructPlus4.c	12;"	d	file:
+NUM_THREADS	SDSD_StructPlus5.c	12;"	d	file:
+NUM_THREADS	SDSD_StructPlus6.c	12;"	d	file:
+NUM_THREADS	SDSD_StructPlus7.c	12;"	d	file:
+NUM_THREADS	SDS_StructPlus.c	12;"	d	file:
+NUM_THREADS	SDS_StructPlus1.c	12;"	d	file:
+NUM_THREADS	SDS_StructPlus2.c	12;"	d	file:
+NUM_THREADS	SDS_StructPlus3.c	12;"	d	file:
+NUM_THREADS	SDS_StructPlus4.c	12;"	d	file:
+NUM_THREADS	SOT_StructPlus.c	12;"	d	file:
+NUM_THREADS	ThreadDSDS_StructPlus1.c	12;"	d	file:
+NUM_THREADS	ThreadDSDS_StructPlus2.c	12;"	d	file:
+NUM_THREADS	ThreadDSDS_StructPlus3.c	12;"	d	file:
+NUM_THREADS	ThreadDSDS_StructPlus4.c	12;"	d	file:
+NUM_THREADS	ThreadDSDS_StructPlus5.c	12;"	d	file:
+NUM_THREADS	ThreadDSDS_StructPlus6.c	12;"	d	file:
+NUM_THREADS	ThreadDSDS_StructPlus7.c	12;"	d	file:
+NUM_THREADS	ThreadDSD_StructPlus1.c	12;"	d	file:
+NUM_THREADS	ThreadDSD_StructPlus2.c	12;"	d	file:
+NUM_THREADS	ThreadDSD_StructPlus3.c	12;"	d	file:
+NUM_THREADS	ThreadDSD_StructPlus4.c	12;"	d	file:
+NUM_THREADS	ThreadSDSD_StructPlus.c	12;"	d	file:
+NUM_THREADS	ThreadSDSD_StructPlus1.c	12;"	d	file:
+NUM_THREADS	ThreadSDSD_StructPlus2.c	12;"	d	file:
+NUM_THREADS	ThreadSDSD_StructPlus3.c	12;"	d	file:
+NUM_THREADS	ThreadSDSD_StructPlus4.c	12;"	d	file:
+NUM_THREADS	ThreadSDSD_StructPlus5.c	12;"	d	file:
+NUM_THREADS	ThreadSDSD_StructPlus6.c	12;"	d	file:
+NUM_THREADS	ThreadSDSD_StructPlus7.c	12;"	d	file:
+NUM_THREADS	ThreadSDS_StructPlus1.c	12;"	d	file:
+NUM_THREADS	ThreadSDS_StructPlus2.c	12;"	d	file:
+NUM_THREADS	ThreadSDS_StructPlus3.c	12;"	d	file:
+NUM_THREADS	ThreadSDS_StructPlus4.c	12;"	d	file:
+Node	8_VPred.h	/^struct Node{$/;"	s
+Node	8_VPred.h	/^typedef struct Node Node;$/;"	t	typeref:struct:Node
+Node	vpred_orig_code/VPred.h	/^struct Node {$/;"	s
+Node	vpred_orig_code/VPred.h	/^typedef struct Node Node;$/;"	t	typeref:struct:Node
+Object	vpred_orig_code/Object.h	/^Object::Object(unsigned long id, int fid, float threshold) {$/;"	f	class:Object
+Object	vpred_orig_code/Object.h	/^class Object {$/;"	c
+Object_H_GUARD	vpred_orig_code/Object.h	2;"	d
+PARSE_COMMAND_LINE_H_GUARD	ParseCommandLine.h	2;"	d
+PARSE_COMMAND_LINE_H_GUARD	vpred_orig_code/ParseCommandLine.h	2;"	d
+QSetNum	QueryDSD_StructPlusMQ.c	19;"	d	file:
+QSetNum	QueryDSD_StructPlusMS.c	19;"	d	file:
+QSetNum	QueryDSD_StructPlusYahoo.c	19;"	d	file:
+STRUCT_H_GUARD	Struct.h	2;"	d
+STRUCT_H_GUARD	vpred_orig_code/Struct.h	2;"	d
+STRUCT_PLUS_H_GUARD	StructPlus.h	2;"	d
+STRUCT_PLUS_H_GUARD	vpred_orig_code/StructPlus.h	2;"	d
+Struct	Struct.h	/^struct Struct {$/;"	s
+Struct	Struct.h	/^typedef struct Struct Struct;$/;"	t	typeref:struct:Struct
+Struct	vpred_orig_code/Struct.h	/^struct Struct {$/;"	s
+Struct	vpred_orig_code/Struct.h	/^typedef struct Struct Struct;$/;"	t	typeref:struct:Struct
+StructPlus	StructPlus.h	/^struct StructPlus {$/;"	s
+StructPlus	StructPlus.h	/^typedef struct StructPlus StructPlus;$/;"	t	typeref:struct:StructPlus
+StructPlus	vpred_orig_code/StructPlus.h	/^struct StructPlus {$/;"	s
+StructPlus	vpred_orig_code/StructPlus.h	/^typedef struct StructPlus StructPlus;$/;"	t	typeref:struct:StructPlus
+T	8_VPred_Block.c	11;"	d	file:
+T	DOT_StructPlus.c	11;"	d	file:
+T	DSDS_StructPlus.c	11;"	d	file:
+T	DSDS_StructPlus1.c	11;"	d	file:
+T	DSDS_StructPlus2.c	11;"	d	file:
+T	DSDS_StructPlus3.c	11;"	d	file:
+T	DSDS_StructPlus4.c	11;"	d	file:
+T	DSDS_StructPlus5.c	11;"	d	file:
+T	DSDS_StructPlus6.c	11;"	d	file:
+T	DSDS_StructPlus7.c	11;"	d	file:
+T	DSD_StructPlus.c	11;"	d	file:
+T	DSD_StructPlus1.c	11;"	d	file:
+T	DSD_StructPlus2.c	11;"	d	file:
+T	DSD_StructPlus3.c	11;"	d	file:
+T	DSD_StructPlus4.c	11;"	d	file:
+T	QS.c	11;"	d	file:
+T	SDSD_StructPlus.c	11;"	d	file:
+T	SDSD_StructPlus1.c	11;"	d	file:
+T	SDSD_StructPlus2.c	11;"	d	file:
+T	SDSD_StructPlus3.c	11;"	d	file:
+T	SDSD_StructPlus4.c	11;"	d	file:
+T	SDSD_StructPlus5.c	11;"	d	file:
+T	SDSD_StructPlus6.c	11;"	d	file:
+T	SDSD_StructPlus7.c	11;"	d	file:
+T	SDS_StructPlus.c	11;"	d	file:
+T	SDS_StructPlus1.c	11;"	d	file:
+T	SDS_StructPlus2.c	11;"	d	file:
+T	SDS_StructPlus3.c	11;"	d	file:
+T	SDS_StructPlus4.c	11;"	d	file:
+T	SOT_StructPlus.c	11;"	d	file:
+T	ThreadDSDS_StructPlus1.c	11;"	d	file:
+T	ThreadDSDS_StructPlus2.c	11;"	d	file:
+T	ThreadDSDS_StructPlus3.c	11;"	d	file:
+T	ThreadDSDS_StructPlus4.c	11;"	d	file:
+T	ThreadDSDS_StructPlus5.c	11;"	d	file:
+T	ThreadDSDS_StructPlus6.c	11;"	d	file:
+T	ThreadDSDS_StructPlus7.c	11;"	d	file:
+T	ThreadDSD_StructPlus1.c	11;"	d	file:
+T	ThreadDSD_StructPlus2.c	11;"	d	file:
+T	ThreadDSD_StructPlus3.c	11;"	d	file:
+T	ThreadDSD_StructPlus4.c	11;"	d	file:
+T	ThreadSDSD_StructPlus.c	11;"	d	file:
+T	ThreadSDSD_StructPlus1.c	11;"	d	file:
+T	ThreadSDSD_StructPlus2.c	11;"	d	file:
+T	ThreadSDSD_StructPlus3.c	11;"	d	file:
+T	ThreadSDSD_StructPlus4.c	11;"	d	file:
+T	ThreadSDSD_StructPlus5.c	11;"	d	file:
+T	ThreadSDSD_StructPlus6.c	11;"	d	file:
+T	ThreadSDSD_StructPlus7.c	11;"	d	file:
+T	ThreadSDS_StructPlus1.c	11;"	d	file:
+T	ThreadSDS_StructPlus2.c	11;"	d	file:
+T	ThreadSDS_StructPlus3.c	11;"	d	file:
+T	ThreadSDS_StructPlus4.c	11;"	d	file:
+T	misc/DOT_StructPlus_Thread.c	19;"	d	file:
+T	vpred_orig_code/StructPlus.c	19;"	d	file:
+V	8_VPred.h	1;"	d
+V	misc/GenerateHeadFile.cpp	9;"	d	file:
+V	vpred_orig_code/VPred.h	1;"	d
+addNode	Struct.h	/^Struct* addNode(Struct* node, unsigned long id, int leftChild, int featureId, float threshold) {$/;"	f
+addNode	StructPlus.h	/^void addNode(StructPlus* tree, unsigned long pindex,$/;"	f
+addNode	vpred_orig_code/Object.h	/^Object* Object::addNode(unsigned long id, bool left, int featureId, float threshold) {$/;"	f	class:Object
+addNode	vpred_orig_code/Struct.h	/^Struct* addNode(Struct* node, unsigned long id, int leftChild, int featureId, float threshold) {$/;"	f
+addNode	vpred_orig_code/StructPlus.h	/^void addNode(StructPlus* tree, unsigned long pindex,$/;"	f
+candidateDocNum	QueryDSD_StructPlusMQ.c	/^const int candidateDocNum[QSetNum] = {50, 30, 5};$/;"	v
+candidateDocNum	QueryDSD_StructPlusMS.c	/^const int candidateDocNum[QSetNum] = {300, 100, 50};$/;"	v
+candidateDocNum	QueryDSD_StructPlusYahoo.c	/^const int candidateDocNum[QSetNum] = {15000, 8000, 1000, 10};$/;"	v
+children	8_VPred.h	/^	int children[2];$/;"	m	struct:Node
+children	vpred_orig_code/VPred.h	/^  int children[2];$/;"	m	struct:Node
+compress	StructPlus.h	/^StructPlus* compress(StructPlus* root) {$/;"	f
+compress	vpred_orig_code/StructPlus.h	/^StructPlus* compress(StructPlus* root) {$/;"	f
+compressNodes	StructPlus.h	/^long compressNodes(StructPlus* array, StructPlus* old, long index) {$/;"	f
+compressNodes	vpred_orig_code/StructPlus.h	/^long compressNodes(StructPlus* array, StructPlus* old, long index) {$/;"	f
+countNodes	StructPlus.h	/^long countNodes(StructPlus* root) {$/;"	f
+countNodes	vpred_orig_code/StructPlus.h	/^long countNodes(StructPlus* root) {$/;"	f
+createNode	Struct.h	/^Struct* createNode(unsigned long id, int fid, float threshold) {$/;"	f
+createNode	vpred_orig_code/Struct.h	/^Struct* createNode(unsigned long id, int fid, float threshold) {$/;"	f
+createNodes	8_VPred.c	/^int createNodes(Struct* root, long i, Node* nodes) {$/;"	f
+createNodes	8_VPred_Block.c	/^int createNodes(Struct* root, long i, Node* nodes) {$/;"	f
+createNodes	StructPlus.h	/^StructPlus* createNodes(long size) {$/;"	f
+createNodes	vpred_orig_code/StructPlus.h	/^StructPlus* createNodes(long size) {$/;"	f
+createNodes	vpred_orig_code/VPred.c	/^int createNodes(Struct* root, long i, Node* nodes) {$/;"	f
+destroyTree	Struct.h	/^void destroyTree(Struct* node) {$/;"	f
+destroyTree	StructPlus.h	/^void destroyTree(StructPlus* tree) {$/;"	f
+destroyTree	vpred_orig_code/Struct.h	/^void destroyTree(Struct* node) {$/;"	f
+destroyTree	vpred_orig_code/StructPlus.h	/^void destroyTree(StructPlus* tree) {$/;"	f
+features	ThreadDSDS_StructPlus1.c	/^float** features;$/;"	v
+features	ThreadDSDS_StructPlus2.c	/^float** features;$/;"	v
+features	ThreadDSDS_StructPlus3.c	/^float** features;$/;"	v
+features	ThreadDSDS_StructPlus4.c	/^float** features;$/;"	v
+features	ThreadDSDS_StructPlus5.c	/^float** features;$/;"	v
+features	ThreadDSDS_StructPlus6.c	/^float** features;$/;"	v
+features	ThreadDSDS_StructPlus7.c	/^float** features;$/;"	v
+features	ThreadDSD_StructPlus1.c	/^float** features;$/;"	v
+features	ThreadDSD_StructPlus2.c	/^float** features;$/;"	v
+features	ThreadDSD_StructPlus3.c	/^float** features;$/;"	v
+features	ThreadDSD_StructPlus4.c	/^float** features;$/;"	v
+features	ThreadSDSD_StructPlus.c	/^float** features;$/;"	v
+features	ThreadSDSD_StructPlus1.c	/^float** features;$/;"	v
+features	ThreadSDSD_StructPlus2.c	/^float** features;$/;"	v
+features	ThreadSDSD_StructPlus3.c	/^float** features;$/;"	v
+features	ThreadSDSD_StructPlus4.c	/^float** features;$/;"	v
+features	ThreadSDSD_StructPlus5.c	/^float** features;$/;"	v
+features	ThreadSDSD_StructPlus6.c	/^float** features;$/;"	v
+features	ThreadSDSD_StructPlus7.c	/^float** features;$/;"	v
+features	ThreadSDS_StructPlus1.c	/^float** features;$/;"	v
+features	ThreadSDS_StructPlus2.c	/^float** features;$/;"	v
+features	ThreadSDS_StructPlus3.c	/^float** features;$/;"	v
+features	ThreadSDS_StructPlus4.c	/^float** features;$/;"	v
+features	misc/DOT_StructPlus_Thread.c	/^float** features;$/;"	v
+features	misc/FTFT_StructPlus_Thread.c	/^float** features;$/;"	v
+features	misc/TFTF_StructPlus_Thread.c	/^float** features;$/;"	v
+fid	8_VPred.h	/^	int fid;$/;"	m	struct:Node
+fid	Struct.h	/^  int fid; \/\/ Feature id$/;"	m	struct:Struct
+fid	StructPlus.h	/^  int fid;$/;"	m	struct:StructPlus
+fid	vpred_orig_code/Object.h	/^  int fid;$/;"	m	class:Object
+fid	vpred_orig_code/Struct.h	/^  int fid; \/\/ Feature id$/;"	m	struct:Struct
+fid	vpred_orig_code/StructPlus.h	/^  int fid;$/;"	m	struct:StructPlus
+fid	vpred_orig_code/VPred.h	/^  int fid;$/;"	m	struct:Node
+findLeaf	8_VPred.c	/^void (*findLeaf[151])(int* leaves, float* features,$/;"	v
+findLeaf	8_VPred_Block.c	/^void (*findLeaf[52])(int* leaves, float* features,$/;"	v
+findLeaf	vpred_orig_code/VPred.c	/^void (*findLeaf[11])(int* leaves, float* features,$/;"	v
+findLeafDepth1	8_VPred.h	/^void findLeafDepth1(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth1	vpred_orig_code/VPred.h	/^void findLeafDepth1(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth10	8_VPred.h	/^void findLeafDepth10(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth10	vpred_orig_code/VPred.h	/^void findLeafDepth10(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth11	8_VPred.h	/^void findLeafDepth11(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth12	8_VPred.h	/^void findLeafDepth12(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth13	8_VPred.h	/^void findLeafDepth13(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth14	8_VPred.h	/^void findLeafDepth14(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth15	8_VPred.h	/^void findLeafDepth15(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth16	8_VPred.h	/^void findLeafDepth16(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth17	8_VPred.h	/^void findLeafDepth17(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth18	8_VPred.h	/^void findLeafDepth18(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth19	8_VPred.h	/^void findLeafDepth19(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth2	8_VPred.h	/^void findLeafDepth2(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth2	vpred_orig_code/VPred.h	/^void findLeafDepth2(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth20	8_VPred.h	/^void findLeafDepth20(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth21	8_VPred.h	/^void findLeafDepth21(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth22	8_VPred.h	/^void findLeafDepth22(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth23	8_VPred.h	/^void findLeafDepth23(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth24	8_VPred.h	/^void findLeafDepth24(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth25	8_VPred.h	/^void findLeafDepth25(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth26	8_VPred.h	/^void findLeafDepth26(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth27	8_VPred.h	/^void findLeafDepth27(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth28	8_VPred.h	/^void findLeafDepth28(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth29	8_VPred.h	/^void findLeafDepth29(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth3	8_VPred.h	/^void findLeafDepth3(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth3	vpred_orig_code/VPred.h	/^void findLeafDepth3(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth30	8_VPred.h	/^void findLeafDepth30(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth31	8_VPred.h	/^void findLeafDepth31(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth32	8_VPred.h	/^void findLeafDepth32(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth33	8_VPred.h	/^void findLeafDepth33(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth34	8_VPred.h	/^void findLeafDepth34(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth35	8_VPred.h	/^void findLeafDepth35(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth36	8_VPred.h	/^void findLeafDepth36(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth37	8_VPred.h	/^void findLeafDepth37(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth38	8_VPred.h	/^void findLeafDepth38(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth39	8_VPred.h	/^void findLeafDepth39(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth4	8_VPred.h	/^void findLeafDepth4(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth4	vpred_orig_code/VPred.h	/^void findLeafDepth4(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth40	8_VPred.h	/^void findLeafDepth40(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth41	8_VPred.h	/^void findLeafDepth41(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth42	8_VPred.h	/^void findLeafDepth42(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth43	8_VPred.h	/^void findLeafDepth43(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth44	8_VPred.h	/^void findLeafDepth44(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth45	8_VPred.h	/^void findLeafDepth45(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth46	8_VPred.h	/^void findLeafDepth46(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth47	8_VPred.h	/^void findLeafDepth47(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth48	8_VPred.h	/^void findLeafDepth48(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth49	8_VPred.h	/^void findLeafDepth49(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth5	8_VPred.h	/^void findLeafDepth5(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth5	vpred_orig_code/VPred.h	/^void findLeafDepth5(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth50	8_VPred.h	/^void findLeafDepth50(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth51	8_VPred.h	/^void findLeafDepth51(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth6	8_VPred.h	/^void findLeafDepth6(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth6	vpred_orig_code/VPred.h	/^void findLeafDepth6(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth7	8_VPred.h	/^void findLeafDepth7(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth7	vpred_orig_code/VPred.h	/^void findLeafDepth7(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth8	8_VPred.h	/^void findLeafDepth8(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth8	vpred_orig_code/VPred.h	/^void findLeafDepth8(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth9	8_VPred.h	/^void findLeafDepth9(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+findLeafDepth9	vpred_orig_code/VPred.h	/^void findLeafDepth9(int* leaves, float* featureVector, int numberOfFeatures, Node* nodes) {$/;"	f
+fp_log	ThreadDSDS_StructPlus1.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadDSDS_StructPlus2.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadDSDS_StructPlus3.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadDSDS_StructPlus4.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadDSDS_StructPlus5.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadDSDS_StructPlus6.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadDSDS_StructPlus7.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadDSD_StructPlus1.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadDSD_StructPlus2.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadDSD_StructPlus3.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadDSD_StructPlus4.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadSDSD_StructPlus.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadSDSD_StructPlus1.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadSDSD_StructPlus2.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadSDSD_StructPlus3.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadSDSD_StructPlus4.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadSDSD_StructPlus5.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadSDSD_StructPlus6.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadSDSD_StructPlus7.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadSDS_StructPlus1.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadSDS_StructPlus2.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadSDS_StructPlus3.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	ThreadSDS_StructPlus4.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	misc/DOT_StructPlus_Thread.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	misc/FTFT_StructPlus_Thread.c	/^FILE *fp_log; \/\/ log file$/;"	v
+fp_log	misc/TFTF_StructPlus_Thread.c	/^FILE *fp_log; \/\/ log file$/;"	v
+getLeaf	Struct.h	/^Struct* getLeaf(Struct* pThis, float* featureVector) {$/;"	f
+getLeaf	StructPlus.h	/^StructPlus* getLeaf(StructPlus* pThis, float* featureVector) {$/;"	f
+getLeaf	vpred_orig_code/Object.h	/^float Object::getLeaf(float* featureVector, int featureVectorSize) {$/;"	f	class:Object
+getLeaf	vpred_orig_code/Struct.h	/^Struct* getLeaf(Struct* pThis, float* featureVector) {$/;"	f
+getLeaf	vpred_orig_code/StructPlus.h	/^StructPlus* getLeaf(StructPlus* pThis, float* featureVector) {$/;"	f
+getValueCL	ParseCommandLine.h	/^char* getValueCL(int argc, char** argv, char* flag) {$/;"	f
+getValueCL	vpred_orig_code/ParseCommandLine.h	/^char* getValueCL(int argc, char** argv, char* flag) {$/;"	f
+id	Struct.h	/^  unsigned long id; \/\/ Node id$/;"	m	struct:Struct
+id	StructPlus.h	/^  unsigned long id;$/;"	m	struct:StructPlus
+id	vpred_orig_code/Object.h	/^  unsigned long id; \/\/ Node id$/;"	m	class:Object
+id	vpred_orig_code/Struct.h	/^  unsigned long id; \/\/ Node id$/;"	m	struct:Struct
+id	vpred_orig_code/StructPlus.h	/^  unsigned long id;$/;"	m	struct:StructPlus
+isPresentCL	ParseCommandLine.h	/^int isPresentCL(int argc, char** argv, char* flag) {$/;"	f
+isPresentCL	vpred_orig_code/ParseCommandLine.h	/^int isPresentCL(int argc, char** argv, char* flag) {$/;"	f
+left	Struct.h	/^  Struct* left; \/\/ Left node$/;"	m	struct:Struct
+left	StructPlus.h	/^  StructPlus* left;$/;"	m	struct:StructPlus
+left	vpred_orig_code/Object.h	/^  Object* left;$/;"	m	class:Object
+left	vpred_orig_code/Struct.h	/^  Struct* left; \/\/ Left node$/;"	m	struct:Struct
+left	vpred_orig_code/StructPlus.h	/^  StructPlus* left;$/;"	m	struct:StructPlus
+main	8_VPred.c	/^int main(int argc, char** args) {$/;"	f
+main	8_VPred_Block.c	/^int main(int argc, char** args) {$/;"	f
+main	DOT_StructPlus.c	/^int main(int argc, char** args) {$/;"	f
+main	DSDS_StructPlus.c	/^int main(int argc, char** args) {$/;"	f
+main	DSDS_StructPlus1.c	/^int main(int argc, char** args) {$/;"	f
+main	DSDS_StructPlus2.c	/^int main(int argc, char** args) {$/;"	f
+main	DSDS_StructPlus3.c	/^int main(int argc, char** args) {$/;"	f
+main	DSDS_StructPlus4.c	/^int main(int argc, char** args) {$/;"	f
+main	DSDS_StructPlus5.c	/^int main(int argc, char** args) {$/;"	f
+main	DSDS_StructPlus6.c	/^int main(int argc, char** args) {$/;"	f
+main	DSDS_StructPlus7.c	/^int main(int argc, char** args) {$/;"	f
+main	DSD_StructPlus.c	/^int main(int argc, char** args) {$/;"	f
+main	DSD_StructPlus1.c	/^int main(int argc, char** args) {$/;"	f
+main	DSD_StructPlus2.c	/^int main(int argc, char** args) {$/;"	f
+main	DSD_StructPlus3.c	/^int main(int argc, char** args) {$/;"	f
+main	DSD_StructPlus4.c	/^int main(int argc, char** args) {$/;"	f
+main	QS.c	/^int main(int argc, char** args) {$/;"	f
+main	QueryDSD_StructPlusMQ.c	/^int main(int argc, char** args) {$/;"	f
+main	QueryDSD_StructPlusMS.c	/^int main(int argc, char** args) {$/;"	f
+main	QueryDSD_StructPlusYahoo.c	/^int main(int argc, char** args) {$/;"	f
+main	SDSD_StructPlus.c	/^int main(int argc, char** args) {$/;"	f
+main	SDSD_StructPlus1.c	/^int main(int argc, char** args) {$/;"	f
+main	SDSD_StructPlus2.c	/^int main(int argc, char** args) {$/;"	f
+main	SDSD_StructPlus3.c	/^int main(int argc, char** args) {$/;"	f
+main	SDSD_StructPlus4.c	/^int main(int argc, char** args) {$/;"	f
+main	SDSD_StructPlus5.c	/^int main(int argc, char** args) {$/;"	f
+main	SDSD_StructPlus6.c	/^int main(int argc, char** args) {$/;"	f
+main	SDSD_StructPlus7.c	/^int main(int argc, char** args) {$/;"	f
+main	SDS_StructPlus.c	/^int main(int argc, char** args) {$/;"	f
+main	SDS_StructPlus1.c	/^int main(int argc, char** args) {$/;"	f
+main	SDS_StructPlus2.c	/^int main(int argc, char** args) {$/;"	f
+main	SDS_StructPlus3.c	/^int main(int argc, char** args) {$/;"	f
+main	SDS_StructPlus4.c	/^int main(int argc, char** args) {$/;"	f
+main	SOT_StructPlus.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadDSDS_StructPlus1.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadDSDS_StructPlus2.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadDSDS_StructPlus3.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadDSDS_StructPlus4.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadDSDS_StructPlus5.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadDSDS_StructPlus6.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadDSDS_StructPlus7.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadDSD_StructPlus1.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadDSD_StructPlus2.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadDSD_StructPlus3.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadDSD_StructPlus4.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadSDSD_StructPlus.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadSDSD_StructPlus1.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadSDSD_StructPlus2.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadSDSD_StructPlus3.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadSDSD_StructPlus4.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadSDSD_StructPlus5.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadSDSD_StructPlus6.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadSDSD_StructPlus7.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadSDS_StructPlus1.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadSDS_StructPlus2.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadSDS_StructPlus3.c	/^int main(int argc, char** args) {$/;"	f
+main	ThreadSDS_StructPlus4.c	/^int main(int argc, char** args) {$/;"	f
+main	misc/DOT_StructPlus_Thread.c	/^int main(int argc, char** args) {$/;"	f
+main	misc/FTFT_StructPlus.c	/^int main(int argc, char** args) {$/;"	f
+main	misc/FTFT_StructPlus_Thread.c	/^int main(int argc, char** args) {$/;"	f
+main	misc/FTTF_StructPlus.c	/^int main(int argc, char** args) {$/;"	f
+main	misc/GenerateHeadFile.cpp	/^int main()$/;"	f
+main	misc/TFFT_StructPlus.c	/^int main(int argc, char** args) {$/;"	f
+main	misc/TFTFTF_StructPlus.c	/^int main(int argc, char** args) {$/;"	f
+main	misc/TFTF_StructPlus.c	/^int main(int argc, char** args) {$/;"	f
+main	misc/TFTF_StructPlus_Thread.c	/^int main(int argc, char** args) {$/;"	f
+main	vpred_orig_code/Object.cpp	/^int main(int argc, char** args) {$/;"	f
+main	vpred_orig_code/PreProcess.cpp	/^int main()$/;"	f
+main	vpred_orig_code/Struct.c	/^int main(int argc, char** args) {$/;"	f
+main	vpred_orig_code/StructPlus.c	/^int main(int argc, char** args) {$/;"	f
+main	vpred_orig_code/VPred.c	/^int main(int argc, char** args) {$/;"	f
+nbTrees	ThreadDSDS_StructPlus1.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadDSDS_StructPlus2.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadDSDS_StructPlus3.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadDSDS_StructPlus4.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadDSDS_StructPlus5.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadDSDS_StructPlus6.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadDSDS_StructPlus7.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadDSD_StructPlus1.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadDSD_StructPlus2.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadDSD_StructPlus3.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadDSD_StructPlus4.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadSDSD_StructPlus.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadSDSD_StructPlus1.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadSDSD_StructPlus2.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadSDSD_StructPlus3.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadSDSD_StructPlus4.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadSDSD_StructPlus5.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadSDSD_StructPlus6.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadSDSD_StructPlus7.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadSDS_StructPlus1.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadSDS_StructPlus2.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadSDS_StructPlus3.c	/^int nbTrees;$/;"	v
+nbTrees	ThreadSDS_StructPlus4.c	/^int nbTrees;$/;"	v
+nbTrees	misc/DOT_StructPlus_Thread.c	/^int nbTrees;$/;"	v
+nbTrees	misc/FTFT_StructPlus_Thread.c	/^int nbTrees;$/;"	v
+nbTrees	misc/TFTF_StructPlus_Thread.c	/^int nbTrees;$/;"	v
+numberOfInstances	ThreadDSDS_StructPlus1.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadDSDS_StructPlus2.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadDSDS_StructPlus3.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadDSDS_StructPlus4.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadDSDS_StructPlus5.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadDSDS_StructPlus6.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadDSDS_StructPlus7.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadDSD_StructPlus1.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadDSD_StructPlus2.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadDSD_StructPlus3.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadDSD_StructPlus4.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadSDSD_StructPlus.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadSDSD_StructPlus1.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadSDSD_StructPlus2.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadSDSD_StructPlus3.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadSDSD_StructPlus4.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadSDSD_StructPlus5.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadSDSD_StructPlus6.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadSDSD_StructPlus7.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadSDS_StructPlus1.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadSDS_StructPlus2.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadSDS_StructPlus3.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	ThreadSDS_StructPlus4.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	misc/DOT_StructPlus_Thread.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	misc/FTFT_StructPlus_Thread.c	/^int numberOfInstances;$/;"	v
+numberOfInstances	misc/TFTF_StructPlus_Thread.c	/^int numberOfInstances;$/;"	v
+printScores	ThreadDSDS_StructPlus1.c	/^int printScores;$/;"	v
+printScores	ThreadDSDS_StructPlus2.c	/^int printScores;$/;"	v
+printScores	ThreadDSDS_StructPlus3.c	/^int printScores;$/;"	v
+printScores	ThreadDSDS_StructPlus4.c	/^int printScores;$/;"	v
+printScores	ThreadDSDS_StructPlus5.c	/^int printScores;$/;"	v
+printScores	ThreadDSDS_StructPlus6.c	/^int printScores;$/;"	v
+printScores	ThreadDSDS_StructPlus7.c	/^int printScores;$/;"	v
+printScores	ThreadDSD_StructPlus1.c	/^int printScores;$/;"	v
+printScores	ThreadDSD_StructPlus2.c	/^int printScores;$/;"	v
+printScores	ThreadDSD_StructPlus3.c	/^int printScores;$/;"	v
+printScores	ThreadDSD_StructPlus4.c	/^int printScores;$/;"	v
+printScores	ThreadSDSD_StructPlus.c	/^int printScores;$/;"	v
+printScores	ThreadSDSD_StructPlus1.c	/^int printScores;$/;"	v
+printScores	ThreadSDSD_StructPlus2.c	/^int printScores;$/;"	v
+printScores	ThreadSDSD_StructPlus3.c	/^int printScores;$/;"	v
+printScores	ThreadSDSD_StructPlus4.c	/^int printScores;$/;"	v
+printScores	ThreadSDSD_StructPlus5.c	/^int printScores;$/;"	v
+printScores	ThreadSDSD_StructPlus6.c	/^int printScores;$/;"	v
+printScores	ThreadSDSD_StructPlus7.c	/^int printScores;$/;"	v
+printScores	ThreadSDS_StructPlus1.c	/^int printScores;$/;"	v
+printScores	ThreadSDS_StructPlus2.c	/^int printScores;$/;"	v
+printScores	ThreadSDS_StructPlus3.c	/^int printScores;$/;"	v
+printScores	ThreadSDS_StructPlus4.c	/^int printScores;$/;"	v
+printScores	misc/DOT_StructPlus_Thread.c	/^int printScores;$/;"	v
+printScores	misc/FTFT_StructPlus_Thread.c	/^int printScores;$/;"	v
+printScores	misc/TFTF_StructPlus_Thread.c	/^int printScores;$/;"	v
+queryNum	QueryDSD_StructPlusMQ.c	/^const int queryNum[QSetNum] = {1600, 2333, 10002};$/;"	v
+queryNum	QueryDSD_StructPlusMS.c	/^const int queryNum[QSetNum] = {133, 1001, 1200};$/;"	v
+queryNum	QueryDSD_StructPlusYahoo.c	/^const int queryNum[QSetNum] = {5, 12, 19, 1000};$/;"	v
+right	Struct.h	/^  Struct* right; \/\/ Right node$/;"	m	struct:Struct
+right	StructPlus.h	/^  StructPlus* right;$/;"	m	struct:StructPlus
+right	vpred_orig_code/Object.h	/^  Object* right;$/;"	m	class:Object
+right	vpred_orig_code/Struct.h	/^  Struct* right; \/\/ Right node$/;"	m	struct:Struct
+right	vpred_orig_code/StructPlus.h	/^  StructPlus* right;$/;"	m	struct:StructPlus
+setRoot	StructPlus.h	/^void setRoot(StructPlus* tree, unsigned long id, int featureId, float threshold) {$/;"	f
+setRoot	vpred_orig_code/StructPlus.h	/^void setRoot(StructPlus* tree, unsigned long id, int featureId, float threshold) {$/;"	f
+theta	8_VPred.h	/^	float theta;$/;"	m	struct:Node
+theta	vpred_orig_code/VPred.h	/^  float theta;$/;"	m	struct:Node
+thread_sum	ThreadDSDS_StructPlus1.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadDSDS_StructPlus2.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadDSDS_StructPlus3.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadDSDS_StructPlus4.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadDSDS_StructPlus5.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadDSDS_StructPlus6.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadDSDS_StructPlus7.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadDSD_StructPlus1.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadDSD_StructPlus2.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadDSD_StructPlus3.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadDSD_StructPlus4.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadSDSD_StructPlus.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadSDSD_StructPlus1.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadSDSD_StructPlus2.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadSDSD_StructPlus3.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadSDSD_StructPlus4.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadSDSD_StructPlus5.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadSDSD_StructPlus6.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadSDSD_StructPlus7.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadSDS_StructPlus1.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadSDS_StructPlus2.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadSDS_StructPlus3.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	ThreadSDS_StructPlus4.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	misc/DOT_StructPlus_Thread.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	misc/FTFT_StructPlus_Thread.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+thread_sum	misc/TFTF_StructPlus_Thread.c	/^float thread_sum[NUM_THREADS]; \/\/ save the sum result from each thread$/;"	v
+threshold	Struct.h	/^  float threshold; \/\/ Threshold\/Regression value$/;"	m	struct:Struct
+threshold	StructPlus.h	/^  float threshold;$/;"	m	struct:StructPlus
+threshold	vpred_orig_code/Object.h	/^  float threshold;$/;"	m	class:Object
+threshold	vpred_orig_code/Struct.h	/^  float threshold; \/\/ Threshold\/Regression value$/;"	m	struct:Struct
+threshold	vpred_orig_code/StructPlus.h	/^  float threshold;$/;"	m	struct:StructPlus
+trees	ThreadDSDS_StructPlus1.c	/^StructPlus** trees;$/;"	v
+trees	ThreadDSDS_StructPlus2.c	/^StructPlus** trees;$/;"	v
+trees	ThreadDSDS_StructPlus3.c	/^StructPlus** trees;$/;"	v
+trees	ThreadDSDS_StructPlus4.c	/^StructPlus** trees;$/;"	v
+trees	ThreadDSDS_StructPlus5.c	/^StructPlus** trees;$/;"	v
+trees	ThreadDSDS_StructPlus6.c	/^StructPlus** trees;$/;"	v
+trees	ThreadDSDS_StructPlus7.c	/^StructPlus** trees;$/;"	v
+trees	ThreadDSD_StructPlus1.c	/^StructPlus** trees;$/;"	v
+trees	ThreadDSD_StructPlus2.c	/^StructPlus** trees;$/;"	v
+trees	ThreadDSD_StructPlus3.c	/^StructPlus** trees;$/;"	v
+trees	ThreadDSD_StructPlus4.c	/^StructPlus** trees;$/;"	v
+trees	ThreadSDSD_StructPlus.c	/^StructPlus** trees;$/;"	v
+trees	ThreadSDSD_StructPlus1.c	/^StructPlus** trees;$/;"	v
+trees	ThreadSDSD_StructPlus2.c	/^StructPlus** trees;$/;"	v
+trees	ThreadSDSD_StructPlus3.c	/^StructPlus** trees;$/;"	v
+trees	ThreadSDSD_StructPlus4.c	/^StructPlus** trees;$/;"	v
+trees	ThreadSDSD_StructPlus5.c	/^StructPlus** trees;$/;"	v
+trees	ThreadSDSD_StructPlus6.c	/^StructPlus** trees;$/;"	v
+trees	ThreadSDSD_StructPlus7.c	/^StructPlus** trees;$/;"	v
+trees	ThreadSDS_StructPlus1.c	/^StructPlus** trees;$/;"	v
+trees	ThreadSDS_StructPlus2.c	/^StructPlus** trees;$/;"	v
+trees	ThreadSDS_StructPlus3.c	/^StructPlus** trees;$/;"	v
+trees	ThreadSDS_StructPlus4.c	/^StructPlus** trees;$/;"	v
+trees	misc/DOT_StructPlus_Thread.c	/^StructPlus** trees;$/;"	v
+trees	misc/FTFT_StructPlus_Thread.c	/^StructPlus** trees;$/;"	v
+trees	misc/TFTF_StructPlus_Thread.c	/^StructPlus** trees;$/;"	v
+writeFunction	misc/GenerateHeadFile.cpp	/^void writeFunction(int depth)$/;"	f
+~Object	vpred_orig_code/Object.h	/^Object::~Object() {$/;"	f	class:Object
