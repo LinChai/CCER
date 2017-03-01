@@ -122,7 +122,7 @@ void compute_QS()
             test = 0x80; // test = 1000 0000 ... 0000
             for (y=0; y<z; y++)
               test = test >> 1;
-            if (v[k][h] & test != 0) // found!
+            if ((v[k][h] & test) != 0) // found!
               break;
             j++;
           } // loop z
