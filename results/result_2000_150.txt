@@ -1,0 +1,13 @@
+DOT
+Time per instance (ns): 59.22
+Ignore this number: -4954.689941
+Time per instance (ns): 58.79
+Ignore this number: -4954.689941
+SOT
+Time per instance (ns): 30590.00
+Ignore this number: -4954.684570
+Time per instance (ns): 31220.00
+Ignore this number: -4954.684570
+8_VPred:
+Time per instance (ns): 58050.00
+Ignore this number: -5313
